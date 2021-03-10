@@ -1,4 +1,4 @@
-# Corpws Brawddegau CC0
+# Brawddegau Adnabod Lleferydd
 
 Mae hwn yn gasgliad o 14,857 brawddeg sy’n cael eu rhyddhau dan drwydded CC0. Fe’u casglwyd gan aelodau’r Uned Technolegau Iaith yn unswydd i fod yn bromptiau ar gyfer Adnabod Lleferydd Cymraeg. Daw’r brawddegau o wahanol ffynonellau CC0 ac maent yn cynnwys:<br/>
 *This is a collection of 14,857 sentences released under a CC0 licence. They were collected by members of the Language Technologies Unit, Bangor University, expressly to serve as prompts for Welsh Speech Recognition. The sentences come from various CC0 sources and include:*
