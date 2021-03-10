@@ -1,4 +1,4 @@
-[English Below](#welsh_speech_recognition_sentences)
+[English Below](#welsh-speech-recognition-sentences)
 
 # Brawddegau Adnabod Lleferydd
 Mae hwn yn gasgliad o 14,857 brawddeg sy’n cael eu rhyddhau dan drwydded CC0. Fe’u casglwyd gan aelodau’r Uned Technolegau Iaith yn unswydd i fod yn bromptiau ar gyfer recordio sain i hyfforddi modelau Adnabod Lleferydd Cymraeg. O'r herwydd, maent yn frawddegau gweddol fyr, ac nid ydynt yn cynnwys llawer o nodau a symbolau llai cyffredin. Daw’r brawddegau o wahanol ffynonellau CC0 ac maent yn cynnwys:<br/>
