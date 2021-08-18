@@ -7,7 +7,9 @@ from collections import defaultdict
 
 import nlp.cy.trie
 
-LEXICON_URL='https://raw.githubusercontent.com/techiaith/lecsicon-cymraeg-bangor/main/lecsicon_cc0.zip'
+# download version 21.02 of Welsh CC-0 Lexicon.
+#
+LEXICON_URL='https://raw.githubusercontent.com/techiaith/lecsicon-cymraeg-bangor/21.02/lecsicon_cc0.zip'
 LEXICON_FILENAME='lecsicon_cc0.txt'
 
 clitics = ['CH','I','M','N','R','TH','U','W']
