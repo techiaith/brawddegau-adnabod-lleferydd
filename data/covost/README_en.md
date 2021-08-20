@@ -8,9 +8,11 @@ Because CoVoST's Welsh sentences are machine translations of Common Voice's Engl
 
  * short sentence, less than 15 words.
  * does not include numbers, acronyms and abbreviations.
- * all words are present in a Welsh language lexicon [2] or in a list of [20,000 additional words we have allowed](../../src/python/nlp/cy/oov_welsh.txt) 
+ * all words are present in a Welsh language lexicon [2] or in a list of [20,000 additional words we have allowed](../../docker/src/python/nlp/cy/oov_welsh.txt) 
  
 CoVoST's Welsh sentences included, in our opinion, an excess of American English proper nouns that we considered less relevant for speech recognition to the Welsh language and the Welsh cultural context. Excluding them will allow us to add proper names that are more representative of Welsh language context.
+
+The scripts we used for filtering unsuitable sentences can be found in [docker/REAME.md](../../docker/README.md)
 
 We have followed [Mozilla's recommended method for bulk submissions](https://github.com/common-voice/common-voice/blob/main/docs/SENTENCES.md#bulk-submission) to validate the quality of our selection of 101,353 sentences. Files `cy.662.1.txt` and `cy.662.2.txt` have been reviewed by human editors who have confirmed only 5% of sentences from both files are problematic for recording.
  

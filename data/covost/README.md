@@ -8,9 +8,11 @@ Oherwydd bod brawddegau Cymraeg CoVoST yn gyfieithiadau peirianyddol o frawddega
 
  * brawddeg byr, llai na 15 gair. 
  * ddim yn cynnwys rhifau, acronymau a talfyriadau.
- * pob gair yn lecsicon y Gymraeg [2] neu mewn rhestr o tua [20,000 air rydym wedi caniatáu yn ychwanegol](../../src/python/nlp/cy/oov_welsh.txt)  
+ * pob gair yn lecsicon y Gymraeg [2] neu mewn rhestr o tua [20,000 air rydym wedi caniatáu yn ychwanegol](../../docker/src/python/nlp/cy/oov_welsh.txt)  
  
  Roedd brawddegau Cymraeg CoVoST hefyd yn cynnwys, yn ein barn ni, gormodedd o enwau priod o Saesneg America yr oeddem yn eu hystyried yn llai perthnasol ar gyfer adnabod lleferydd i'r Gymraeg a'r cyd-destun diwylliannol Cymreig. Bydd eu heithrio yn ein galluogi i ychwanegu enwau priod sy'n fwy cynrychioladol o'r cyd-destun Cymreig a geir yn y Gymraeg.
+
+Mae'r sgriptiau defnyddiwyd i hidlo'r brawddegau anaddas ar gael o [docker/REAME.md](../../docker/README.md)
 
 Rydym wedi dilyn [dull argymhellir gan Mozilla ar gyfer cyflwyniadau swmp](https://github.com/common-voice/common-voice/blob/main/docs/SENTENCES.md#bulk-submission) i ddilysu ansawdd ein ddetholiad o 101,353 frawddeg. Mae ffeiliau `cy.662.1.txt` a ` cy.662.2.txt` wedi'u hadolygu gan olygyddion dynol sydd wedi cadarnhau bod 5% o frawddegau o'r ddau ffeil yn broblemus ar gyfer recordio.
 
