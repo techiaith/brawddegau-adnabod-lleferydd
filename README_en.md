@@ -2,9 +2,7 @@
 
 [Darllen y README yn Gymraeg](README.md)
 
-This is collection of Welsh language sentences released under a CC0 license and collected by members of the Language Technologies Unit, Bangor University expressly to serve as prompts for recrding audio to be used to train Welsh Speech Recognition models. As a result, the sentences are reasonably short and do not contain less common characters and symbols.
-
-These sentences were also submitted to Mozilla's Common Voice project, and these sentences were therefore used for volunteer recording.
+This is a collection of Welsh language sentences released under a CC0 license and collected by members of the Language Technologies Unit, Bangor University expressly to serve as prompts for recording audio to train Welsh speech recognition models. As a result, the sentences are reasonably short and do not contain less common characters and symbols.
 
 These sentences have also been contributed to the Mozilla Common Voice project to be recorded by volunteers.
 
